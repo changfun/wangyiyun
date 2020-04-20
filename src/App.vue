@@ -18,7 +18,7 @@
           </ul>
         </div>
       </el-header>
-      <el-main>
+      <el-main class="base-main">
         <router-view></router-view>
       </el-main>
       <el-footer></el-footer>
@@ -42,5 +42,6 @@ export default {
 </script>
 
 <style>
-
+    .base-main {
+    }
 </style>

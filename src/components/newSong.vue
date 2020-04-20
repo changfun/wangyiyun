@@ -1,5 +1,5 @@
 <template>
-<h2>排行</h2>
+<h2>新歌上架</h2>
 </template>
 
 <script>
